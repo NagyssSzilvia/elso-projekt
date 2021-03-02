@@ -4,6 +4,7 @@ html {
 h1 {
     color: darkcyan;
     font-size: 4.8px;
+    text-decoration: underline;
 }
 p {
     font-size: 1.8px;
